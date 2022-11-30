@@ -20092,10 +20092,16 @@
       "links": {},
       "address": "0x1284F59f39B43201eB794c61C872Fa97b080e127",
       "transactionHash": "0x134354259886e8902026b192421bb4197f8ee635f24c151e2a3bfd8900e4af8a"
+    },
+    "1669797854514": {
+      "events": {},
+      "links": {},
+      "address": "0x5811bd5D6647C36C5Cb241c63d73ef734f41c0B5",
+      "transactionHash": "0x2f30de7737a0a0b821041e22a2c1f6434badd5a2d7913c02c428454480443876"
     }
   },
   "schemaVersion": "3.4.10",
-  "updatedAt": "2022-11-24T15:20:52.593Z",
+  "updatedAt": "2022-11-30T08:53:08.563Z",
   "networkType": "ethereum",
   "devdoc": {
     "author": "Sadikovic.Rusmir",
